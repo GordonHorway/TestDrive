@@ -43,4 +43,5 @@ int main(void) {
     printf("It works!\n");
 
   return 0;
+  printf("Useless print statement!!\n\n");
 }
