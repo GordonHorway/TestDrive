@@ -17,6 +17,8 @@ int main(void) {
   if ((flags & FLAG2) != 0)
     printf("flag 2 is true\n");
 
+  // Just another useless improvement
+  
   if ((flags & FLAG3) != 0)
     printf("flag 3 is true\n");
 
